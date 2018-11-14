@@ -20,8 +20,8 @@
 
   <repositories>
     <repository>
-      <id>tyrannyofheaven.org</id>
-      <url>http://maven.tyrannyofheaven.org</url>
+      <id>xephi-repo</id>
+      <url>http://ci.xephi.fr/plugin/repository/everything/</url>
     </repository>
     <repository>
       <id>sk89q-maven</id>
